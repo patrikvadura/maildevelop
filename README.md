@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="https://czechvisual.space/saroli/emailing/persons/saroli-antonovic.html" target="_blank">
+    <a href="https://czechvisual.space/_cdn/czechvisual/maildevelop/output/index.html" target="_blank">
       <img src="https://res.cloudinary.com/patrik-vadura/image/upload/v1669369398/czechvisual/github%20-%20badges/badge_production_wh6c65.svg" height="20" style="max-width: 100%;" alt="">
     </a>
     <a href="https://maizzle.com" target="_blank">
@@ -22,7 +22,7 @@
 
 Open production or staging deploy server and simple change last digits of the URL path.
 
-Check availible [Releases](https://github.com/czechvisual/saroli-emailing/releases)
+Check availible [Releases](https://github.com/czechvisual/mailvevelop/releases)
 
 
 ---

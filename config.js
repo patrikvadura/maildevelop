@@ -1,12 +1,7 @@
 /*
-|-------------------------------------------------------------------------------
-| Development config                      https://maizzle.com/docs/environments
-|-------------------------------------------------------------------------------
-|
-| The exported object contains the default Maizzle settings for development.
-| This is used when you run `maizzle build` or `maizzle serve` and it has
-| the fastest build time, since most transformations are disabled.
-|
+  Config
+  @Author: Patrik Vaďura | czechvisual
+  @package maildevelop
 */
 
 module.exports = {
@@ -23,8 +18,9 @@ module.exports = {
     },
   },
   locals: {
-    saroli: {
-      photo: 'https://czechvisual.space/saroli/emailing/assets/profile-foto/'
+    global: {
+      photo: 'https://czechvisual.space/_cdn/czechvisual/maildevelop/profile-photo.png',
+      logo: 'https://czechvisual.space/_cdn/czechvisual/maildevelop/logo_maildevelop.png'
     }
   }
 }

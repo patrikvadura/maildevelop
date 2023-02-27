@@ -7,13 +7,11 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       inherit: 'inherit',
-      black: '#262626',
+      black: '#000',
       white: '#ffffff',
       gray: '#808080',
-      saroli: '#1A1A44',
-      forte: '#F1AB00',
-      partneri: '#5B329A',
-      sport: '#0AF17A'
+      primary: '#363073',
+      secondary: '#DBFF00'
     },
     extend: {
       spacing: {
