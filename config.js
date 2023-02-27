@@ -19,8 +19,8 @@ module.exports = {
   },
   locals: {
     global: {
-      photo: 'https://czechvisual.space/_cdn/czechvisual/maildevelop/profile-photo.png',
-      logo: 'https://czechvisual.space/_cdn/czechvisual/maildevelop/logo_maildevelop.png'
+      photo: 'https://czechvisual.space/_cdn/czechvisual/maildevelop/assets/profile-photo.png',
+      logo: 'https://czechvisual.space/_cdn/czechvisual/maildevelop/assets/logo_maildevelop.png'
     }
   }
 }
